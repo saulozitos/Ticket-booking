@@ -1,0 +1,47 @@
+# Build directories
+build/
+cmake-build-*/
+bin/
+lib/
+
+# Qt generated files
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qm
+
+# Conan
+conaninfo.txt
+conanbuildinfo.*
+conan.lock
+graph_info.json
+CMakeUserPresets.json
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.user
+*.pro.user*
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Documentation
+docs/html/
+docs/latex/
+docs/xml/
+
+# OS
+.DS_Store
+Thumbs.db
