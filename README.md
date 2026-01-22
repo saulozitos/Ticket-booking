@@ -63,8 +63,6 @@ ticket-booking/
 ├── docs/ # Documentation
 │ └── Doxyfile
 ├── CMakeLists.txt
-├── conanfile.txt 
-├── Dockerfile
 └── README.md
 ```
 
